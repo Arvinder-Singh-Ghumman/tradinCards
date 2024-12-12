@@ -1,0 +1,34 @@
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.Form1.resources
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.csproj.GenerateResource.cache
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.GeneratedMSBuildEditorConfig.editorconfig
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.AssemblyInfoInputs.cache
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.AssemblyInfo.cs
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.csproj.CoreCompileInputs.cache
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\bin\Debug\net8.0-windows\FootballTradingCards.exe
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\bin\Debug\net8.0-windows\FootballTradingCards.deps.json
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\bin\Debug\net8.0-windows\FootballTradingCards.runtimeconfig.json
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\bin\Debug\net8.0-windows\FootballTradingCards.dll
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\bin\Debug\net8.0-windows\FootballTradingCards.pdb
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.dll
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\refint\FootballTradingCards.dll
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.pdb
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.genruntimeconfig.cache
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\ref\FootballTradingCards.dll
+D:\BOW VALLEY COLLEGE 3\SODV 2101 Rapid Application Development\assignments\assignment3_tradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\FootballTradingCards\FootballTradingCards\bin\Debug\net8.0-windows\FootballTradingCards.exe
+C:\Users\Lenovo\Downloads\FootballTradingCards\FootballTradingCards\bin\Debug\net8.0-windows\FootballTradingCards.deps.json
+C:\Users\Lenovo\Downloads\FootballTradingCards\FootballTradingCards\bin\Debug\net8.0-windows\FootballTradingCards.runtimeconfig.json
+C:\Users\Lenovo\Downloads\FootballTradingCards\FootballTradingCards\bin\Debug\net8.0-windows\FootballTradingCards.dll
+C:\Users\Lenovo\Downloads\FootballTradingCards\FootballTradingCards\bin\Debug\net8.0-windows\FootballTradingCards.pdb
+C:\Users\Lenovo\Downloads\FootballTradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.Form1.resources
+C:\Users\Lenovo\Downloads\FootballTradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\FootballTradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\FootballTradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\FootballTradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\FootballTradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\FootballTradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\FootballTradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.dll
+C:\Users\Lenovo\Downloads\FootballTradingCards\FootballTradingCards\obj\Debug\net8.0-windows\refint\FootballTradingCards.dll
+C:\Users\Lenovo\Downloads\FootballTradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.pdb
+C:\Users\Lenovo\Downloads\FootballTradingCards\FootballTradingCards\obj\Debug\net8.0-windows\FootballTradingCards.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\FootballTradingCards\FootballTradingCards\obj\Debug\net8.0-windows\ref\FootballTradingCards.dll
